@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ColorExtension/bin/Debug/net7.0
+/ColorExtension/obj
+/ConsoleApp_Activity/bin/Debug/net7.0
+/ConsoleApp_Activity/obj
+/ConsoleApp_AllTrash_Sandbox/bin/Debug/net7.0
+/ConsoleApp_AllTrash_Sandbox/obj
+/ConsoleApp_MyActivity/bin/Debug/net7.0
+/ConsoleApp_MyActivity/obj
